@@ -1,0 +1,9 @@
+openai
+termcolor
+smolagents
+python-dotenv
+beautifulsoup4
+requests
+chromadb
+sentence-transformers
+google-search-results 
