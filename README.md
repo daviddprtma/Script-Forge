@@ -2,12 +2,15 @@
 <br/>
 <div align="center">
 
-<h3 align="center">Script Forge™️</h3>
+<h3 align="center">(WINNER #3 for Hack Another Day - Quira Agents🎉🎉)Script Forge™️</h3>
+
 <p align="center">
 A multiple AI agents to research, create, and get summary for the video scripts from social media📱
 
 </p>
 </div>
+
+## If you want to check the announcement for the list of the winner, go check it out in here [Hack Another Day - Quira Agents](https://quira.sh/quests/creator/submissions?questId=25)
 
 ## About The Project
 
